@@ -1,3 +1,6 @@
-M� Sinh Vi�n : 16T1021111
-H? v� T�n : H? Vi?t Nh�n
-M�n : X�y d?ng ?ng d?ng v?i .NET Framework
+Mã Sinh Viên : 16T1021111
+
+Họ và tên : Hồ Viết Nhân
+
+Môn : Xây dựng ứng dụng với .NET Framework - NHóm 1
+
